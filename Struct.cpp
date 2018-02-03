@@ -1,3 +1,5 @@
+//Конструктор, операторы "+" и "+="
+
 #include <iostream>
 
 using namespace std;
